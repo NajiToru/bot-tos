@@ -8,4 +8,3 @@
 - บอทไม่เก็บข้อมูลผู้ใช้
 - ログข้อความจะถูกลบหลังจาก 24 ชม.
 
-[อ่านฉบับเต็ม](https://github.com/username/bot-tos/blob/main/tos.md)
